@@ -1,0 +1,11 @@
+*.exe
+nimcache/
+/nimble
+.nims
+nimdoc.out
+nimble.lock
+.env
+.vscode
+docs/
+
+
