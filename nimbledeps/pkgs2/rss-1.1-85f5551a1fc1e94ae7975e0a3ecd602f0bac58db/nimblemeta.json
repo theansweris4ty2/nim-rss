@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/achesak/nim-rss",
+    "downloadMethod": "git",
+    "vcsRevision": "c51da8c22dbc67889e4884c77d459cea92b17926",
+    "files": [
+      "\\rss.nim",
+      "\\rss.nimble"
+    ],
+    "binaries": [],
+    "specialVersions": [
+      "1.1"
+    ]
+  }
+}

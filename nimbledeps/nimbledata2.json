@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "reverseDeps": {
+    "rss": {
+      "1.1": {
+        "85f5551a1fc1e94ae7975e0a3ecd602f0bac58db": [
+          {
+            "path": "C:\\Users\\mdjd2\\NimProjects\\nim-rss"
+          }
+        ]
+      }
+    }
+  }
+}
